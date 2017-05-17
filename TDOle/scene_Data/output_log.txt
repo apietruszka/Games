@@ -1,0 +1,211 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\programowanie\TDOle\scene_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\programowanie\TDOle\scene_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\programowanie\TDOle\scene_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\programowanie\TDOle\scene_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\programowanie\TDOle\scene_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\programowanie\TDOle\scene_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\programowanie\TDOle\scene_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\programowanie\TDOle\scene_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\programowanie\TDOle\scene_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\programowanie\TDOle\scene_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\programowanie\TDOle\scene_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading D:\programowanie\TDOle\scene_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+- Completed reload, in  0.315 seconds
+Platform assembly: D:\programowanie\TDOle\scene_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\programowanie\TDOle\scene_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object '_SCRIPTS_') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_SCRIPTS_') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 1.317738 ms
+Path Completed : Computation Time 12.50 ms Searched Nodes 500 Path Length 58
+Path Number 1 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2f7c -> priority: 1 
+Path Completed : Computation Time 0.48 ms Searched Nodes 519 Path Length 57
+Path Number 2 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+drone DispatchDrone reached Magazine. Unloading and waiting for new dispatch order.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 0.50 ms Searched Nodes 528 Path Length 57
+Path Number 3 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+drone DispatchDrone reached Tower. Unloading and returning to magazine.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+drone DispatchDrone reached Magazine. Unloading and waiting for new dispatch order.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 537 Path Length 57
+Path Number 4 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+departing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 530 Path Length 57
+Path Number 5 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 526 Path Length 57
+Path Number 6 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 1.50 ms Searched Nodes 530 Path Length 57
+Path Number 7 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 533 Path Length 57
+Path Number 8 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 0.50 ms Searched Nodes 525 Path Length 57
+Path Number 9 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 0.50 ms Searched Nodes 522 Path Length 57
+Path Number 10 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+departing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 0.50 ms Searched Nodes 513 Path Length 57
+Path Number 11 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 0.50 ms Searched Nodes 499 Path Length 57
+Path Number 12 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 0.50 ms Searched Nodes 499 Path Length 57
+Path Number 13 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+drone DispatchDrone reached Tower(Clone). Unloading and returning to magazine.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 0.50 ms Searched Nodes 499 Path Length 57
+Path Number 14 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 499 Path Length 57
+Path Number 15 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+drone DispatchDrone reached Magazine. Unloading and waiting for new dispatch order.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+selling tower(TODO:do it)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+selling tower(TODO:do it)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+selling tower(TODO:do it)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+selling tower(TODO:do it)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 0.50 ms Searched Nodes 499 Path Length 57
+Path Number 16 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+departing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 0.50 ms Searched Nodes 499 Path Length 57
+Path Number 17 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+drone DispatchDrone reached Tower(Clone). Unloading and returning to magazine.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 499 Path Length 57
+Path Number 18 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 499 Path Length 57
+Path Number 19 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Bullet.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+not enough money to buy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+drone DispatchDrone reached Magazine. Unloading and waiting for new dispatch order.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Path Completed : Computation Time 0.50 ms Searched Nodes 499 Path Length 57
+Path Number 20 (unique id)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at Bullet.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

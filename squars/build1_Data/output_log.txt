@@ -1,0 +1,405 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\programowanie\squars\build1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\programowanie\squars\build1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\programowanie\squars\build1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\programowanie\squars\build1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\programowanie\squars\build1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\programowanie\squars\build1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\programowanie\squars\build1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\programowanie\squars\build1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\programowanie\squars\build1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\programowanie\squars\build1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.180 seconds
+Platform assembly: D:\programowanie\squars\build1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\programowanie\squars\build1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.408617 ms
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at StartingUI.ChangeXDim (System.String arg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall`1[System.String].Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent`1[T0].Invoke (.T0 arg0) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.InputField.SendOnSubmit () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.InputField.DeactivateInputField () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.InputField.OnDeselect (UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IDeselectHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IDeselectHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
+UnityEngine.EventSystems.PointerInputModule:DeselectIfSelectionChanged(GameObject, BaseEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at StartingUI.ChangeYDim (System.String arg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall`1[System.String].Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent`1[T0].Invoke (.T0 arg0) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.InputField.SendOnSubmit () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.InputField.DeactivateInputField () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.InputField.OnDeselect (UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IDeselectHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IDeselectHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.EventSystem:SetSelectedGameObject(GameObject, BaseEventData)
+UnityEngine.EventSystems.PointerInputModule:DeselectIfSelectionChanged(GameObject, BaseEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.904572 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 343.
+Total: 0.254576 ms (FindLiveObjects: 0.030292 ms CreateObjectMapping: 0.017476 ms MarkObjects: 0.194864 ms  DeleteObjects: 0.011359 ms)
+
+done. Execution time: 0 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 0 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 0 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 0 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 0 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 0 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 16 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 2 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 5 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 4 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 12 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 4.24264049530029
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 13 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 28 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 4.24264049530029
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 29 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 70
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 56 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 70
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 4.24264049530029
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 56 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 126
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 100 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 126
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 4.24264049530029
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 100 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 210
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 167 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 210
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 4.24264049530029
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 167 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 330
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 260 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 330
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 4.24264049530029
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 259 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 495
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 386 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 495
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 4.24264049530029
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 386 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Combinations of {A B C D} elementów 4: size = 715
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+i found a square with side = 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+done. Execution time: 552 ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 24cc -> priority: 1 

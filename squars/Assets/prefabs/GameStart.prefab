@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1158933891771656}
+  m_IsPrefabParent: 1
+--- !u!1 &1158933891771656
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4147915840441434}
+  - component: {fileID: 114823872028162892}
+  m_Layer: 0
+  m_Name: GameStart
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4147915840441434
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1158933891771656}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114823872028162892
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1158933891771656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11178aa62db94844baad59ac3a0e6f5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Kropka: {fileID: 1345212251503376, guid: bb522801a124ef04c8217bfb15047f78, type: 2}
+  GameManager: {fileID: 1805862119821240, guid: 13c6cf436423b3449a0a7bc545f236d7,
+    type: 2}
+  Player:
+  - {fileID: 1937199409429594, guid: 8176fbd6c25cfdc45abf68f4f8a1465e, type: 2}
+  - {fileID: 1937199409429594, guid: aeae6e6d2e52f07408e4828523c1e9d0, type: 2}
+  - {fileID: 1937199409429594, guid: f40ee6742f9c06b44a65ca07dcb3545b, type: 2}
+  - {fileID: 1937199409429594, guid: 72795d39549b1f942bf52f2b0cc4266c, type: 2}
+  - {fileID: 1937199409429594, guid: 78cbc2f9885bead49897cb9f543a72af, type: 2}
+  - {fileID: 1937199409429594, guid: ee0778f5e6c04c748ac0c311b582fa60, type: 2}
+  - {fileID: 1937199409429594, guid: d9078ec971e36a942818d8c12a170ac0, type: 2}
+  - {fileID: 1937199409429594, guid: 2ab45065c2e7d6c4aaee128ae2fc14f9, type: 2}
+  Score: {fileID: 1575417209533634, guid: 9fedbffe0d446204b8532fe5ea54368b, type: 2}

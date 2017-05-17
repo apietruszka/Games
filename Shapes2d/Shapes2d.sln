@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes2d.Plugins", "Shapes2d.Plugins.csproj", "{765E729E-D138-EDE2-2FB6-AF85232CF14E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes2d", "Shapes2d.csproj", "{342310D9-58C0-A0B0-5E4B-8092A8F87470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes2d.Editor", "Shapes2d.Editor.csproj", "{24EE7C82-B3B1-5CA3-F540-B80FFC339C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{765E729E-D138-EDE2-2FB6-AF85232CF14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765E729E-D138-EDE2-2FB6-AF85232CF14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765E729E-D138-EDE2-2FB6-AF85232CF14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765E729E-D138-EDE2-2FB6-AF85232CF14E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342310D9-58C0-A0B0-5E4B-8092A8F87470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342310D9-58C0-A0B0-5E4B-8092A8F87470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342310D9-58C0-A0B0-5E4B-8092A8F87470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342310D9-58C0-A0B0-5E4B-8092A8F87470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24EE7C82-B3B1-5CA3-F540-B80FFC339C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EE7C82-B3B1-5CA3-F540-B80FFC339C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EE7C82-B3B1-5CA3-F540-B80FFC339C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EE7C82-B3B1-5CA3-F540-B80FFC339C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
